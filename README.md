@@ -1,6 +1,6 @@
 # Travellion
 
-##SG5228 Digital Innovation & Design
+## SG5228 Digital Innovation & Design
 
 An Android Prototype Design Challenge on  
 
